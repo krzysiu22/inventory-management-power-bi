@@ -26,10 +26,13 @@ In this project, I used advanced DAX calculations, including:
 
 ## Dashboard Preview
 
-**Main Dashboard:**
+**Interactive Demo (Tooltips & Drill-through):**
+![Interactive Demo](images2/tooltip_demo.gif)
+
+**Main Dashboard View:**
 ![Main Dashboard](images2/glownydashboard.png)
 
-**Mobile View:**
+**Mobile Interface:**
 ![Mobile View](images2/DashboardTelefon.png)
 
 **Data Model (Star Schema):**
